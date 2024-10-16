@@ -1,0 +1,12 @@
+{
+  "name": "barak-coffe",
+  "version": "1.0.0",
+  "description": "Aplikasi Pemesanan Barak Kupi Berbasis Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
