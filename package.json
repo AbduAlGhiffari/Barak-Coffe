@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "barak-coffe",
   "version": "1.0.0",
   "description": "Aplikasi Pemesanan Barak Kupi Berbasis Web",
@@ -9,4 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+>>>>>>> 6d5646b72e45fed4503e23830e670592331af5ab
 }
